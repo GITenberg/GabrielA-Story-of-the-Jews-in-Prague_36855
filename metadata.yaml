@@ -1,0 +1,35 @@
+_repo: GabrielA-Story-of-the-Jews-in-Prague_36855
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Milman, Arthur
+    gutenberg_agent_id: '38511'
+    url: http://www.gutenberg.org/2009/agents/38511
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kohn, S. (Salomon)
+    aliases:
+    - Kohn, Salomon
+    - Kohen, Shelomoh
+    birthdate: 1825
+    deathdate: 1904
+    gutenberg_agent_id: '38510'
+    url: http://www.gutenberg.org/2009/agents/38510
+description: ''
+gutenberg_issued: '2011-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36855'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Czech Republic -- Prague -- Fiction'
+- !lcsh 'Thirty Years'' War, 1618-1648 -- Fiction'
+- !lcc 'PT'
+title: 'Gabriel: A Story of the Jews in Prague'
+url: http://www.gutenberg.org/ebooks/36855
